@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <string name="title">Albums list</string>
+    <string name="error">Error while loading</string>
+</resources>
